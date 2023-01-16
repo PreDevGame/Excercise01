@@ -1,0 +1,12 @@
+Báo cáo tiến độ thực tập
+Họ và tên: Lê Trung nghĩa
+
+Exercise_1:
+
+Ngày 12/1/2023;
+Làm được: Game đạt được ́80̀̀% cấu trúc game trong video hướng dẫn mẫu.
+
+Chưa làm được:
++ Chưa có âm thanh cho game.
++ Lỗi nhảy bị mắc vào khối cube.
++ Đang chỉ có 1 màn chơi. 
